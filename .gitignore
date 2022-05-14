@@ -1,0 +1,6 @@
+/bin/
+/.vs/TSAR/v16/
+/.vs/TSAR/DesignTimeBuild/
+/obj/
+/TSAR.csproj.user
+/temp/
